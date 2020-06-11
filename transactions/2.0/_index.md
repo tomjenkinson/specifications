@@ -5,19 +5,19 @@ summary: "Release for Jakarta EE 9"
 ---
 Jakarta Transactions - Need scope statement
 
-* [Jakarta Transactions 2.0 Release Record]()
+* [Jakarta Transactions 2.0 Release Record](https://projects.eclipse.org/projects/ee4j.jta/releases/2.0.0)
   * [Jakarta EE Platform 9 Release Plan](https://eclipse-ee4j.github.io/jakartaee-platform/jakartaee9/JakartaEE9ReleasePlan)
 * [Jakarta Transactions 2.0 Specification Document]() (PDF)
 * [Jakarta Transactions 2.0 Specification Document]() (HTML)
 * [Jakarta Transactions 2.0 Javadoc](./apidocs)
 * [Jakarta Transactions 2.0 TCK]()([sig](),[sha](),[pub]())
 * Maven coordinates
-  * [jakarta.jta:jakarta.jta-api:jar:2.0.0]()
+  * [jakarta.jta:jakarta.jta-api:jar:2.0.0](https://repo1.maven.org/maven2/jakarta/transaction/jakarta.transaction-api/2.0.0-RC2/jakarta.transaction-api-2.0.0-RC2.jar)
 
 
 # Compatible Implementations
 
-* [Jakarta Transactions]()
+* [Eclipse GlassFish]()
 
 # Ballots
 
